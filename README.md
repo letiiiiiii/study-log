@@ -16,7 +16,7 @@ Manter consistência nos estudos, registrar horas e progresso para acompanhar mi
 
 | Data       | Horas | Assunto / Tópico | Evidência |
 |------------|-------|------------------|-----------|
-| 2025-08-11 | 2h    | Revisão de Lógica     | ![Print](2025/08_Agosto/2025-08-11.png) |
+| 2025-08-11 | 2h    | Revisão de Lógica     | ![Print](2025/08_agosto/2025-08-11.png) |
 | 2025-08-12 | 3h    | Funções JS        | ![Print](2025/08_Agosto/2025-08-12.png) |
 | 2025-08-13 | 4h    | Arrays e objetos  | ![Print](2025/08_Agosto/2025-08-13.png) |
 
