@@ -16,28 +16,8 @@ Manter consistência nos estudos, registrar horas e progresso para acompanhar mi
 
 | Data       | Horas | Assunto / Tópico | Evidência |
 |------------|-------|------------------|-----------|
-| 2025-08-11 | 2h    | Revisão de Lógica     | ![Print](2025/08_agosto/2025-08-11.png) |
-| 2025-08-12 | 3h    | Funções JS        | ![Print](2025/08_Agosto/2025-08-12.png) |
-| 2025-08-13 | 4h    | Arrays e objetos  | ![Print](2025/08_Agosto/2025-08-13.png) |
+| 11-08-2025 | 1h20    | Revisão de Lógica | <img src="2025/08_agosto/2025-08-11.png" width="400"> |
 
 ---
 
-## 🖼 Prints do YPT
-Os prints do YPT ficam organizados em pastas por **ano/mês**:
-
----
-
-## 🚀 Como acompanho meu progresso
-- **Ferramentas**: YPT (Yeolpumta) + Notion + GitHub
-- **Método**: Revisão diária + commits de cada sessão de estudo
-- **Regras**: 
-  - Sempre registrar no mesmo dia.
-  - Fazer *commit* com título no formato:  
-    ```
-    🖼 [AAAA-MM-DD] Print do YPT – Xh de [assunto]
-    ```
-
----
-
-## 💬 Motivação
 > "Pequenos avanços diários levam a grandes resultados."
